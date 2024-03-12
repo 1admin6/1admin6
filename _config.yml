@@ -11,9 +11,9 @@ author: John Doe
 language: en
 timezone: ''
 
-# URL
+# URL    //http://example.com
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://1admin6.github.io/
+url: https://1admin6.github.io/project
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
