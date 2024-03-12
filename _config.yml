@@ -103,5 +103,5 @@ theme: ParticleX
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:1admin6/1admin6.git
+  repository: git@github.com:1admin6/1admin6.github.io.git
   branch: main
